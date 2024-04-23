@@ -1,0 +1,504 @@
+[
+  {
+    "id":0,
+    "title": "Mumbai",
+    "type": "City in India",
+    "entity_type": "cities, locations, travel, cities",
+    "kgmid": "/m/04vmp",
+    "thumbnail":"https://media.timeout.com/images/105241451/image.jpg",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/04vmp&hl=en-US&q=Mumbai",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F04vmp&q=Mumbai",
+    "description": "Mumbai (formerly called Bombay) is a densely populated city on India’s west coast. A financial center, it's India's largest city. On the Mumbai Harbour waterfront stands the iconic Gateway of India stone arch, built by the British Raj in 1924. Offshore, nearby Elephanta Island holds ancient cave temples dedicated to the Hindu god Shiva. The city's also famous as the heart of the Bollywood film industry. ― Google",
+    "area": "233 mi²",
+    "neighborhoods": "Dharavi Slums, Gokuldham Society, Kandivali",
+    "neighborhoods_links": [
+      {
+        "text": "Dharavi Slums",
+        "link": "https://www.google.com/search?sca_esv=d143a126214438bd&sca_upv=1&q=Dharavi+Slums&si=AKbGX_rO4P19IF_yO85wYpkEaz-W_oZWd5JUOOVnUVftf2aeobibRtG0lS5Srnuivo1IhUruQRlZKaChmFCkqiestfSD_pgxR0c2KJuPaLHDFjlWxJi-ELXUd5uUHmYWypxCLxroVxWnGODtx2hwZUoKI8_9-L5WmuzMHRz5B1rAj0EZCvs-Fcbzk_V5RfNqV4vqH7E9dFSTr1BOk7timscdtOt1GaJt8L9BNGzwO1y-7WbTuGlMw6qESG6sDzWYjsucvSHBT_ISEjqxxI0agDW70MskNgMPFQ%3D%3D&sa=X&ved=2ahUKEwiX25OK2dKFAxVxCnkGHeOYDcIQmxMoAHoECC0QAg"
+      },
+      {
+        "text": "Gokuldham Society",
+        "link": "https://www.google.com/search?sca_esv=d143a126214438bd&sca_upv=1&q=Gokuldham+Society&si=AKbGX_rO4P19IF_yO85wYpkEaz-W_oZWd5JUOOVnUVftf2aeoQIhq5bIqfk1vWBpZoIRuGnxZ4XN30O93cB9_RtHWrQXsxxG7sQBUxK2UmjW6PKfT8OfuVl2BFrrmBPUpzKZ3fOBJcZ7iqjb8RbVsEtv1xLnjo7CWKdAIB4k5TnQb2p5-P8flCaYDMOIxpi_czbTPVCFIWj1M_6s9letlI85sAVtnmswvU2YlNK20YRH5CBvRIUWR9ttO8ZfClbVmhRFeX8urb4xRAzWeU928UahcVbXltYGDwrlT8HbwWlKTTKtGfYkY9E%3D&sa=X&ved=2ahUKEwiX25OK2dKFAxVxCnkGHeOYDcIQmxMoAXoECC0QAw"
+      },
+      {
+        "text": "Kandivali",
+        "link": "https://www.google.com/search?sca_esv=d143a126214438bd&sca_upv=1&q=Kandivali&si=AKbGX_oBDfquzodaRrfbb9img4kPQ4fCBZjeqAiaW1svvC8uXvicz-U2gYCHNQ4v1I4zs0qVRxKl1nvQTBP_5ydAvJbltFeDqzIGN6gRKqJwxgdBOzZNB60_j5WHHUjXLXzHNP4roS4nPOoSxAbL9ip7y2lNPSwRm54EjR5RNQbZbc0_t6Xiu_UagF7zTh3gadomEYONvHVEnTIKwNPbNAfuxSWfnGYno7CBSTZd0Bm30xEmZ9Rhems7Cdi7z0ow-O-Y1o9jPTaXAjJ5y46HMZrDy0zsv04fwQ%3D%3D&sa=X&ved=2ahUKEwiX25OK2dKFAxVxCnkGHeOYDcIQmxMoAnoECC0QBA"
+      },
+      {
+        "text": "MORE",
+        "link": "https://www.google.com/search?sca_esv=d143a126214438bd&sca_upv=1&q=mumbai+neighborhoods&stick=H4sIAAAAAAAAAOPgE-LQz9U3MCnLLdBSyE620s_JT04syczP0y_ISUxOtcpLzUzPSMovysjPTylexCqSW5qblJipgCIMABYuKzJFAAAA&sa=X&ved=2ahUKEwiX25OK2dKFAxVxCnkGHeOYDcIQ44YBKAN6BAgtEAU"
+      }
+    ],
+    "area_code": "+91-22",
+    "demonym_s": "Mumbaikar, Bombayite, Mumbaiite",
+    "district": "Mumbai City; Mumbai Suburban",
+    "district_links": [
+      {
+        "text": "Mumbai City",
+        "link": "https://www.google.com/search?sca_esv=d143a126214438bd&sca_upv=1&q=Mumbai+City&stick=H4sIAAAAAAAAAONgVuLUz9U3MM81jk9exMrtW5qblJip4JxZUgkAptSaNhsAAAA&sa=X&ved=2ahUKEwiX25OK2dKFAxVxCnkGHeOYDcIQmxMoAHoECDIQAg"
+      },
+      {
+        "text": "Mumbai Suburban",
+        "link": "https://www.google.com/search?sca_esv=d143a126214438bd&sca_upv=1&q=Mumbai+Suburban&stick=H4sIAAAAAAAAAONgVuLUz9U3MM81jk9exMrvW5qblJipEFyaVFqUlJgHAFEV0sMfAAAA&sa=X&ved=2ahUKEwiX25OK2dKFAxVxCnkGHeOYDcIQmxMoAXoECDIQAw"
+      }
+    ],
+    "division": "Konkan",
+    "division_links": [
+      {
+        "text": "Konkan",
+        "link": "https://www.google.com/search?sca_esv=d143a126214438bd&sca_upv=1&q=Konkan&stick=H4sIAAAAAAAAAONgVuLSz9U3sDBIyc0zWsTK5p2fl52YBwCsz9lvFwAAAA&sa=X&ved=2ahUKEwiX25OK2dKFAxVxCnkGHeOYDcIQmxMoAHoECDsQAg"
+      }
+    ],
+    "elevation": "14 m (46 ft)",
+    "buttons": [
+      {
+        "text": "Known for",
+        "subtitle": "What Is Mumbai Known For",
+        "title": "What Is Mumbai Famous For: Top 16 Places & Things To Know",
+        "link": "https://www.godigit.com/explore/popular/what-is-mumbai-famous-for#:~:text=Mumbai%2C%20one%20of%20the%20major,and%20exquisite%20five%2Dstar%20hotels.",
+        "displayed_link": "https://www.godigit.com › explore › popular › what-is-...",
+        "snippet": "Mumbai, one of the major cosmopolitan cities in India, is a popular tourist attraction. It is primarily famous for large markets, mesmerising beaches, towering buildings, and exquisite five-star hotels.",
+        "snippet_highlighted_words": [
+          "large markets, mesmerising beaches, towering buildings, and exquisite five-star hotels"
+        ],
+        "favicon": "https://serpapi.com/searches/6624b45e303eb12b22f54bcc/images/4009064ede2dbccf66d294fc81f3b2398283ed51fd718a314803fdeb6f0f5274eaad99c487f48f95.png",
+        "source": "godigit.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ4rhTh-fHmKCqyLFuyDGjM_1vq5lhlm404OPrf1hPEEY&s",
+        "search_link": "https://www.godigit.com/explore/popular/what-is-mumbai-famous-for#:~:text=Mumbai%2C%20one%20of%20the%20major,and%20exquisite%20five%2Dstar%20hotels.",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Mumbai"
+      },
+      {
+        "text": "Things to do",
+        "subtitle": "Things To Do In Mumbai",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipMyHvx8SO_K1vn5exHJ45hLRmusux72uRbwxKS3=w40-h40-n-k-no"
+      },
+      {
+        "text": "Weather",
+        "subtitle": "Mumbai Weather"
+      },
+      {
+        "text": "Local time",
+        "subtitle": "Mumbai Local Time"
+      },
+      {
+        "text": "Climate",
+        "subtitle": "Mumbai Weather By Month",
+        "title": "Average Temperature by month, Mumbai water ... - Climate Data",
+        "link": "https://en.climate-data.org/asia/india/maharashtra/mumbai-29/#:~:text=Data%20and%20graphs%20for%20weather%20%26%20climate&text=The%20average%20annual%20temperature%20is,is%202012%20mm%20%7C%2079.2%20inch.",
+        "displayed_link": "https://en.climate-data.org › maharashtra › mumbai-29",
+        "snippet": "Data and graphs for weather & climate The average annual temperature is 26.4 °C | 79.6 °F in Mumbai. In a year, the rainfall is 2012 mm | 79.2 inch.",
+        "snippet_highlighted_words": [
+          "26.4 °C | 79.6 °F"
+        ],
+        "favicon": "https://serpapi.com/searches/6624b45e303eb12b22f54bcc/images/4009064ede2dbccf66d294fc81f3b2398283ed51fd718a318c5e0589589547b278d6da24bc569581.png",
+        "source": "climate-data.org",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVlf2enKaEK2Uv-ozMQxmN0Fro0U-lVK2qDYOFlSJmHyg&s",
+        "search_link": "https://en.climate-data.org/asia/india/maharashtra/mumbai-29/#:~:text=Data%20and%20graphs%20for%20weather%20%26%20climate&text=The%20average%20annual%20temperature%20is,is%202012%20mm%20%7C%2079.2%20inch.",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Mumbai"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Kolkata",
+        "link": "https://www.google.com/search?sca_esv=d143a126214438bd&sca_upv=1&si=AKbGX_paaCugDdYkuX2heTJMr0_FGRox2AzKVmiTg2eQr2d-ruzhelXmdwJOyd4w4yTYmagw6qpgafY-kKFY_A6TnxSU-JuVI8YOGKn3QGpY9rqUh9NKgpIwwnJJht-4ugng67Nqrwq5dyzJ9UqBaShiF8dj61X-3obhv4afJGIqFXN3r1r1iL8pXXJcj-PEQNFO3Nlhcny9iSCmsNgbJC3HNC3WTvxre7Rxdzx7q_Y5CFqbxYVU2wUt7dHiWXSqd61K8sEQ74wvjXb1fS-pcFHoWV6kCOKt0A%3D%3D&q=Kolkata&sa=X&ved=2ahUKEwiX25OK2dKFAxVxCnkGHeOYDcIQs9oBKAB6BAgrEAI",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Kolkata&si=AKbGX_paaCugDdYkuX2heTJMr0_FGRox2AzKVmiTg2eQr2d-ruzhelXmdwJOyd4w4yTYmagw6qpgafY-kKFY_A6TnxSU-JuVI8YOGKn3QGpY9rqUh9NKgpIwwnJJht-4ugng67Nqrwq5dyzJ9UqBaShiF8dj61X-3obhv4afJGIqFXN3r1r1iL8pXXJcj-PEQNFO3Nlhcny9iSCmsNgbJC3HNC3WTvxre7Rxdzx7q_Y5CFqbxYVU2wUt7dHiWXSqd61K8sEQ74wvjXb1fS-pcFHoWV6kCOKt0A%3D%3D",
+        "image": "https://serpapi.com/searches/6624b45e303eb12b22f54bcc/images/4009064ede2dbccf66d294fc81f3b23911b80be3feedab476c7bfe710de1a76fc0f5e8e31dc79006afb9b0478727d5c3.jpeg"
+      },
+      {
+        "name": "India",
+        "link": "https://www.google.com/search?sca_esv=d143a126214438bd&sca_upv=1&si=AKbGX_paaCugDdYkuX2heTJMr0_FGRox2AzKVmiTg2eQr2d-riJ7oOqFLmLXfgHg3TNx5zTYCHOqIZr3A976NzmarXuejn-xrsWM_SJlthn52iNctaXoFu58eHrLqst_ZwEt2qT023BbwxkFWx4BAPQN_ZLSfYyRTeCaWpqXiUhW_k9XnhViWDFF1AzVwwV3UiDQsqK6Vsgq0tQiReAA-MIb_8oLvpMdIcv_N1NC19-qXaVK9ICVZGMPzTwGV0oesHOEimbdLFD9-O6ecfZLbB_fr_TjuERTww%3D%3D&q=India&sa=X&ved=2ahUKEwiX25OK2dKFAxVxCnkGHeOYDcIQs9oBKAF6BAgrEAM",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=India&si=AKbGX_paaCugDdYkuX2heTJMr0_FGRox2AzKVmiTg2eQr2d-riJ7oOqFLmLXfgHg3TNx5zTYCHOqIZr3A976NzmarXuejn-xrsWM_SJlthn52iNctaXoFu58eHrLqst_ZwEt2qT023BbwxkFWx4BAPQN_ZLSfYyRTeCaWpqXiUhW_k9XnhViWDFF1AzVwwV3UiDQsqK6Vsgq0tQiReAA-MIb_8oLvpMdIcv_N1NC19-qXaVK9ICVZGMPzTwGV0oesHOEimbdLFD9-O6ecfZLbB_fr_TjuERTww%3D%3D",
+        "image": "https://serpapi.com/searches/6624b45e303eb12b22f54bcc/images/4009064ede2dbccf66d294fc81f3b23911b80be3feedab476c7bfe710de1a76f7c12c698f8d10bb83f6eea585271a00e.png"
+      },
+      {
+        "name": "New Delhi",
+        "link": "https://www.google.com/search?sca_esv=d143a126214438bd&sca_upv=1&si=AKbGX_paaCugDdYkuX2heTJMr0_FGRox2AzKVmiTg2eQr2d-ruxotNAp8qcSPtlJydVD1wXAbvS-W0x2-1w_k4rPDCkMBDqe0nsL7JKc94hZkhr9xrwV7YCcBTVZmbp1zZ4xdsJjgOlb6X17S7dLXazHsPNlS6-u61LeoujFLn-Ndm7HiLcSc0dKPNTBdpeOUA_hwjxp_sui6Nsx68NXOCozE5qgy-OnFzqklYnYDqw_VM9z0k-zHYUsn-zzKT1TrUbhgMqW4o5ghK-CVo9PhOC4Kx4xnUgNqsEVmqkWH6V1GnJFpeFPiv0%3D&q=New+Delhi&sa=X&ved=2ahUKEwiX25OK2dKFAxVxCnkGHeOYDcIQs9oBKAJ6BAgrEAQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=New+Delhi&si=AKbGX_paaCugDdYkuX2heTJMr0_FGRox2AzKVmiTg2eQr2d-ruxotNAp8qcSPtlJydVD1wXAbvS-W0x2-1w_k4rPDCkMBDqe0nsL7JKc94hZkhr9xrwV7YCcBTVZmbp1zZ4xdsJjgOlb6X17S7dLXazHsPNlS6-u61LeoujFLn-Ndm7HiLcSc0dKPNTBdpeOUA_hwjxp_sui6Nsx68NXOCozE5qgy-OnFzqklYnYDqw_VM9z0k-zHYUsn-zzKT1TrUbhgMqW4o5ghK-CVo9PhOC4Kx4xnUgNqsEVmqkWH6V1GnJFpeFPiv0%3D",
+        "image": "https://serpapi.com/searches/6624b45e303eb12b22f54bcc/images/4009064ede2dbccf66d294fc81f3b23911b80be3feedab476c7bfe710de1a76fed88ba6f2bf876b073a4cda7ebcca02d.jpeg"
+      },
+      {
+        "name": "Delhi",
+        "link": "https://www.google.com/search?sca_esv=d143a126214438bd&sca_upv=1&si=AKbGX_paaCugDdYkuX2heTJMr0_FGRox2AzKVmiTg2eQr2d-ruzfeNmassnXE0dxcHhI-okCbOPt8CI0CpJY9kvA1LVYl1GH1T7cbh8MTo58lRHyzBqcXNZq-cgbKO-Z8Ccqj0jzUGm9ynUn5HqWSbfCLUTmsM9LBuQEEKqn1Mim3kJZeB2X8n7zQiftabuEVs3sAxlOas1bQSsWQv6GzakKEdj69z7JXcJdbLO53qPMfPqyFdozBog-OsqpgzvecthHUEmlEoC86UyA-0dm05mfiGn1BhfvMg%3D%3D&q=Delhi&sa=X&ved=2ahUKEwiX25OK2dKFAxVxCnkGHeOYDcIQs9oBKAN6BAgrEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Delhi&si=AKbGX_paaCugDdYkuX2heTJMr0_FGRox2AzKVmiTg2eQr2d-ruzfeNmassnXE0dxcHhI-okCbOPt8CI0CpJY9kvA1LVYl1GH1T7cbh8MTo58lRHyzBqcXNZq-cgbKO-Z8Ccqj0jzUGm9ynUn5HqWSbfCLUTmsM9LBuQEEKqn1Mim3kJZeB2X8n7zQiftabuEVs3sAxlOas1bQSsWQv6GzakKEdj69z7JXcJdbLO53qPMfPqyFdozBog-OsqpgzvecthHUEmlEoC86UyA-0dm05mfiGn1BhfvMg%3D%3D",
+        "image": "https://serpapi.com/searches/6624b45e303eb12b22f54bcc/images/4009064ede2dbccf66d294fc81f3b23911b80be3feedab476c7bfe710de1a76fae23a0cf93db4e6eb12e670dae80249d.jpeg"
+      }
+    ],
+    "people_also_search_for_link": "https://www.google.com/search?sca_esv=d143a126214438bd&sca_upv=1&q=Mumbai&stick=H4sIAAAAAAAAAONgFuLQz9U3MCnLLVCCs7QEgzNTUssTK4v9UitKgktSC4p_MYoFpOYX5KQqJOYU5ysUpyYWJWcopOUXLWJl8y3NTUrM3MHKeItNksFNam3MxZcFr_ZOfDxt6_GWfRe613ll5ikZAgCOScYwagAAAA&sa=X&ved=2ahUKEwiX25OK2dKFAxVxCnkGHeOYDcIQ4qYDegQIKxAG",
+    "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLQz9U3MCnLLVCCs7QEgzNTUssTK4v9UitKgktSC4p_MYoFpOYX5KQqJOYU5ysUpyYWJWcopOUXLWJl8y3NTUrM3MHKeItNksFNam3MxZcFr_ZOfDxt6_GWfRe613ll5ikZAgCOScYwagAAAA"
+  },
+  {
+    "id":1,
+    "title": "Delhi",
+    "type": "City in India",
+    "entity_type": "locations, travel, regions",
+    "kgmid": "/m/09f07",
+    "thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAwtCj2t41m9xY3Xzy0aU2YZPUuTdL7sixMtPutpoOnA&s",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/09f07&hl=en-US&q=Delhi",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F09f07&q=Delhi",
+    "description": "Delhi, India’s capital territory, is a massive metropolitan area in the country’s north. In Old Delhi, a neighborhood dating to the 1600s, stands the imposing Mughal-era Red Fort, a symbol of India, and the sprawling Jama Masjid mosque, whose courtyard accommodates 25,000 people. Nearby is Chandni Chowk, a vibrant bazaar filled with food carts, sweets shops and spice stalls. ― Google",
+    "area": "573 mi²",
+    "area_code": "+91 11",
+    "capital_delhi_sultanate": "1214",
+    "capital_mughal_empire": "1526, intermittently with Agra",
+    "capital_mughal_empire_links": [
+      {
+        "text": "Agra",
+        "link": "https://www.google.com/search?sca_esv=d143a126214438bd&q=Agra&stick=H4sIAAAAAAAAAONgVuLUz9U3MKyqqLBcxMrimF6UCADJV4MoFAAAAA&sa=X&ved=2ahUKEwja3ry82dKFAxUFg4QIHU42B0IQmxMoAHoECGUQAg"
+      }
+    ],
+    "elevation": "200–250 m (650–820 ft)",
+    "hdi_2018": [
+      "0.839 (Very High)",
+      "1st"
+    ],
+    "international_airport": "Indira Gandhi International Airport",
+    "international_airport_links": [
+      {
+        "text": "Indira Gandhi International Airport",
+        "link": "https://www.google.com/search?sca_esv=d143a126214438bd&q=Indira+Gandhi+International+Airport&stick=H4sIAAAAAAAAAONgVuLUz9U3MDQyMTFZxKrsmZeSWZSo4J6Yl5KRqeCZV5JalJdYkpmfl5ij4JhZVJBfVAIAnlW9NTMAAAA&sa=X&ved=2ahUKEwja3ry82dKFAxUFg4QIHU42B0IQmxMoAHoECGMQAg"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "Things to do",
+        "subtitle": "Things To Do In Delhi",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNaQ1SZnIKTduoRA8gG4NgMV3wNmn36Xnji2Oro=w40-h40-n-k-no"
+      },
+      {
+        "text": "Climate",
+        "subtitle": "Delhi Weather By Month",
+        "title": "Temperature Data of Delhi - Indian Climate",
+        "link": "https://www.indianclimate.com/ambient-temperature-data.php?request=5DWH4PLGSL#:~:text=The%20average%20Temperature%20of%20Delhi,C%20to%2022.8%C2%B0C.",
+        "displayed_link": "https://www.indianclimate.com › ambient-temperature-data",
+        "snippet": "The average Temperature of Delhi is around 25°C although it vary from around 13°C during Winter (January) to 33°C during the Monsoon (June). The hottest month of the year is June with temperature varies from 26.5°C to 41.2°C. The coolest month is of the year is January, with temperature varies from 6.0°C to 22.8°C.",
+        "favicon": "https://serpapi.com/searches/6624b4c8a1b423dc78842c42/images/c32246af9ed44c6270f010ae7a98d9f8365b97e3ae66aa6f6408247c24ca26a622cd980f894aed09.png",
+        "source": "indianclimate.com",
+        "search_link": "https://www.indianclimate.com/ambient-temperature-data.php?request=5DWH4PLGSL#:~:text=The%20average%20Temperature%20of%20Delhi,C%20to%2022.8%C2%B0C.",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Delhi"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "New Delhi",
+        "link": "https://www.google.com/search?sca_esv=d143a126214438bd&si=AKbGX_paaCugDdYkuX2heTJMr0_FGRox2AzKVmiTg2eQr2d-ruxotNAp8qcSPtlJydVD1wXAbvS-W0x2-1w_k4rPDCkMBDqe0nsL7JKc94hZkhr9xrwV7YCcBTVZmbp1zZ4xdsJjgOlb6X17S7dLXazHsPNlKVTZGdU4-c9hdEhB9GP_ElOe95AZpqhLXJ_KBKfqc8trcwWHQ3jXm2yZ9kAZOGAFRpFJax1ZiVgbpNt80Ga7V-jkT7kWfTZE2mRIEhLVsvOIgznx6XW0TCjShxabUN3HjDL1UDmPkHsHrr_lr7T7TeL33dE%3D&q=New+Delhi&sa=X&ved=2ahUKEwja3ry82dKFAxUFg4QIHU42B0IQs9oBKAB6BAhgEAI",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=New+Delhi&si=AKbGX_paaCugDdYkuX2heTJMr0_FGRox2AzKVmiTg2eQr2d-ruxotNAp8qcSPtlJydVD1wXAbvS-W0x2-1w_k4rPDCkMBDqe0nsL7JKc94hZkhr9xrwV7YCcBTVZmbp1zZ4xdsJjgOlb6X17S7dLXazHsPNlKVTZGdU4-c9hdEhB9GP_ElOe95AZpqhLXJ_KBKfqc8trcwWHQ3jXm2yZ9kAZOGAFRpFJax1ZiVgbpNt80Ga7V-jkT7kWfTZE2mRIEhLVsvOIgznx6XW0TCjShxabUN3HjDL1UDmPkHsHrr_lr7T7TeL33dE%3D",
+        "image": "https://serpapi.com/searches/6624b4c8a1b423dc78842c42/images/c32246af9ed44c6270f010ae7a98d9f8532476d13b75e52d95e85015fb7ff0055213380590ab5edd460a48b3eee51b01.jpeg"
+      },
+      {
+        "name": "India",
+        "link": "https://www.google.com/search?sca_esv=d143a126214438bd&si=AKbGX_paaCugDdYkuX2heTJMr0_FGRox2AzKVmiTg2eQr2d-riJ7oOqFLmLXfgHg3TNx5zTYCHOqIZr3A976NzmarXuejn-xrsWM_SJlthn52iNctaXoFu58eHrLqst_ZwEt2qT023BbwxkFWx4BAPQN_ZLSKe-jSWYSaeanjA19FpxyQp5_fio_7h8N9yUhKR9p6BP8W480GkNW62szQkNXqnB_ghhFaXzWCp2ZTmjT4sgZJfeMY8oOYPMGghTlrA98olDpLCQdRqgn2yf0pipiU58QxVEj6A%3D%3D&q=India&sa=X&ved=2ahUKEwja3ry82dKFAxUFg4QIHU42B0IQs9oBKAF6BAhgEAM",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=India&si=AKbGX_paaCugDdYkuX2heTJMr0_FGRox2AzKVmiTg2eQr2d-riJ7oOqFLmLXfgHg3TNx5zTYCHOqIZr3A976NzmarXuejn-xrsWM_SJlthn52iNctaXoFu58eHrLqst_ZwEt2qT023BbwxkFWx4BAPQN_ZLSKe-jSWYSaeanjA19FpxyQp5_fio_7h8N9yUhKR9p6BP8W480GkNW62szQkNXqnB_ghhFaXzWCp2ZTmjT4sgZJfeMY8oOYPMGghTlrA98olDpLCQdRqgn2yf0pipiU58QxVEj6A%3D%3D",
+        "image": "https://serpapi.com/searches/6624b4c8a1b423dc78842c42/images/c32246af9ed44c6270f010ae7a98d9f8532476d13b75e52d95e85015fb7ff005348cc8969cbf1161ad5019bdc73934d3.png"
+      },
+      {
+        "name": "Faridabad",
+        "link": "https://www.google.com/search?sca_esv=d143a126214438bd&si=AKbGX_oBDfquzodaRrfbb9img4kPQ4fCBZjeqAiaW1svvC8uXtINNw3e-WfJK6wnceQvHpDfih8_TybbDH3yVQOEi5fxZtcQNU1q7RNl5uUUWkKxNORVD4pAwq9xWyv0fIJ94N6uEsb4jY3rnxeHzU9vvsNR2MBzs5FoWKLy4hXpyv0etmkBskBohktgodc90n5oVeLmJif66_xBenAZdVQ4QC-BnSflXFqt_83qt_nQmiaBK_51bVRkkojaiKBKjwasqfRS0trsFfZOgBMdWDjshyvOrD6R47LtmxmAO7TGaXTimgsPDvY%3D&q=Faridabad&sa=X&ved=2ahUKEwja3ry82dKFAxUFg4QIHU42B0IQs9oBKAJ6BAhgEAQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Faridabad&si=AKbGX_oBDfquzodaRrfbb9img4kPQ4fCBZjeqAiaW1svvC8uXtINNw3e-WfJK6wnceQvHpDfih8_TybbDH3yVQOEi5fxZtcQNU1q7RNl5uUUWkKxNORVD4pAwq9xWyv0fIJ94N6uEsb4jY3rnxeHzU9vvsNR2MBzs5FoWKLy4hXpyv0etmkBskBohktgodc90n5oVeLmJif66_xBenAZdVQ4QC-BnSflXFqt_83qt_nQmiaBK_51bVRkkojaiKBKjwasqfRS0trsFfZOgBMdWDjshyvOrD6R47LtmxmAO7TGaXTimgsPDvY%3D",
+        "image": "https://serpapi.com/searches/6624b4c8a1b423dc78842c42/images/c32246af9ed44c6270f010ae7a98d9f8532476d13b75e52d95e85015fb7ff0057fbaa8c5125cb97378b9b587b11d0776.jpeg"
+      },
+      {
+        "name": "Mumbai",
+        "link": "https://www.google.com/search?sca_esv=d143a126214438bd&si=AKbGX_paaCugDdYkuX2heTJMr0_FGRox2AzKVmiTg2eQr2d-rrnl2I_uitnV9no8Hh-kRG6RICESeyptRdWaGGIkhtB7lMvXMxB-PzdKsLDHFhEI31oityEddgWj_UCUy_UlmD2y9MLR-5KyR5cW388wWXcrn7oE8e4DcUe4ezykMJpnnX-8xm_d3gddtXEs_K289OT4by3CjPvL6Rsjtbz-8N6PIbvc_-RfGmCvBC6DQZxi0u1oRACUYKtcdWuSlMptg__D8KVWpVZIoUoFPaar-h1PfTEXqw%3D%3D&q=Mumbai&sa=X&ved=2ahUKEwja3ry82dKFAxUFg4QIHU42B0IQs9oBKAN6BAhgEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Mumbai&si=AKbGX_paaCugDdYkuX2heTJMr0_FGRox2AzKVmiTg2eQr2d-rrnl2I_uitnV9no8Hh-kRG6RICESeyptRdWaGGIkhtB7lMvXMxB-PzdKsLDHFhEI31oityEddgWj_UCUy_UlmD2y9MLR-5KyR5cW388wWXcrn7oE8e4DcUe4ezykMJpnnX-8xm_d3gddtXEs_K289OT4by3CjPvL6Rsjtbz-8N6PIbvc_-RfGmCvBC6DQZxi0u1oRACUYKtcdWuSlMptg__D8KVWpVZIoUoFPaar-h1PfTEXqw%3D%3D",
+        "image": "https://serpapi.com/searches/6624b4c8a1b423dc78842c42/images/c32246af9ed44c6270f010ae7a98d9f8532476d13b75e52d95e85015fb7ff00541044cc5d9890c7a477876ed344bec2a.jpeg"
+      }
+    ]
+  },
+  {
+    "id":2,
+    "title": "Manali",
+    "type": "Town in India",
+    "entity_type": "cities, locations, travel, cities",
+    "kgmid": "/m/046x4x",
+    "thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiCQFxMVrUHCM6a6WNOe5gYdswRKsurN8UkCdsV14reQ&s",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/046x4x&hl=en-US&q=Manali",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F046x4x&q=Manali",
+    "description": "Manali is a high-altitude Himalayan resort town in India’s northern Himachal Pradesh state. It has a reputation as a backpacking center and honeymoon destination. Set on the Beas River, it’s a gateway for skiing in the Solang Valley and trekking in Parvati Valley. It's also a jumping-off point for paragliding, rafting and mountaineering in the Pir Panjal mountains, home to 4,000m-high Rohtang Pass. ― Google",
+    "elevation": "6,726′",
+    "district": "Kullu",
+    "district_links": [
+      {
+        "text": "Kullu",
+        "link": "https://www.google.com/search?sca_esv=d143a126214438bd&q=Kullu&stick=H4sIAAAAAAAAAONgVuLUz9U3MM6psqxcxMrqXZqTUwoAVRzovBUAAAA&sa=X&ved=2ahUKEwjB5Kzs2dKFAxWSIUQIHYmWDzoQmxMoAHoECGEQAg"
+      }
+    ],
+    "named_for": "Manu",
+    "telephone_code": "+911902",
+    "buttons": [
+      {
+        "text": "Things to do",
+        "subtitle": "Things To Do In Manali",
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/2necOVou5uOu9ahA98w0yecJYVGm7KM0EbtJn0EOGtxnbPnnsz1qGp1F67ZNC2WQBPoz695U23tVQqReHkPiv21iiUxRAD2oIqf2tbwDJ1qF2FVOM3DbTnCABvnH-FHqLpsw395wVsoYtvk83E3RwF9Qu1V5Wnw=w40-h40-n-k-no"
+      },
+      {
+        "text": "Tour",
+        "subtitle": "Manali Tour",
+        "thumbnail": "https://serpapi.com/searches/6624b52ce4a23da2385bf049/images/7330132696062d175cdc68aed2ca36b681d80ad76845d619c1667ca8c6dca57c1e536e38f2baf828.gif",
+        "web_links": [
+          {
+            "title": "Manali Tour Packages Starting @ ₹ 14228 - Book Now!",
+            "snippet": "Frequently Asked Questions about Manali Packages · Day 1: Pick up from Delhi and drive to Kullu valley. ·...",
+            "link": "https://www.makemytrip.com/holidays-india/manali-travel-packages.html",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTVSvz2zaY2DgHnR_kRpSVlwvCsMt6KHXiiJFaaer6ubWOMXRoLDoa9ODrTTs8",
+            "source": "MakeMyTrip",
+            "source_thumbnail": "https://serpapi.com/searches/6624b52ce4a23da2385bf049/images/7330132696062d175cdc68aed2ca36b681d80ad76845d61981996cf5c81739f047c11969633c0c7bf4713f0c990325766544d6777cbfa855.gif"
+          },
+          {
+            "title": "Manali Tour Packages - Yatra.com",
+            "snippet": "Conclusion - The best time to visit Manali is between Aprils to October. Therefore, being a very popular summer...",
+            "link": "https://www.yatra.com/india-tour-packages/holidays-in-manali",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHTqJY4a05QPwkimBjrgNu4S060k4Fbgh17ZZVJYxzEMU05qo9EZemFOXXgZE",
+            "source": "Yatra.com",
+            "source_thumbnail": "https://serpapi.com/searches/6624b52ce4a23da2385bf049/images/7330132696062d175cdc68aed2ca36b681d80ad76845d61981996cf5c81739f0835ffd68569759b0103b7c69252823c0f4b6c49a3b4798bb.gif"
+          }
+        ]
+      },
+      {
+        "text": "Weather",
+        "subtitle": "Manali Weather"
+      },
+      {
+        "text": "Climate",
+        "subtitle": "Manali Climate",
+        "title": "Weather Manali & temperature by month - Climate Data",
+        "link": "https://en.climate-data.org/asia/india/himachal-pradesh/manali-24786/#:~:text=The%20climate%20is%20cold%20and,%C2%B0C%20%7C%2035.7%20%C2%B0F.",
+        "displayed_link": "https://en.climate-data.org › asia › india › manali-24786",
+        "snippet": "The climate is cold and temperate. It is noteworthy that Manali experiences a considerable volume of precipitation throughout the year, including its least humid month. This climate is considered to be Dfb according to the Köppen-Geiger climate classification. The average temperature in Manali is 2.1 °C | 35.7 °F.",
+        "favicon": "https://serpapi.com/searches/6624b52ce4a23da2385bf049/images/7330132696062d175cdc68aed2ca36b681d80ad76845d61987a6b97dc50c1e37e587e8cd4be02f2f.png",
+        "source": "climate-data.org",
+        "search_link": "https://en.climate-data.org/asia/india/himachal-pradesh/manali-24786/#:~:text=The%20climate%20is%20cold%20and,%C2%B0C%20%7C%2035.7%20%C2%B0F.",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Manali"
+      }
+    ],
+    "web_results": [
+      {
+        "thumbnail": "https://serpapi.com/searches/6624b52ce4a23da2385bf049/images/7330132696062d175cdc68aed2ca36b60410d1e67b5c383b9a465f216dbb5a590a778c78d05c2e29.jpeg",
+        "title": "Manali | Manali Tourist Places | Manali Travel Guide | Manali ...",
+        "source": "YouTube • TheSocialTraveller",
+        "source_image": "https://serpapi.com/searches/6624b52ce4a23da2385bf049/images/7330132696062d175cdc68aed2ca36b60410d1e67b5c383bdd8207e8e0de2c0e294d2742ab042f72a592c16eec9d73a9.png",
+        "link": "https://www.youtube.com/watch?v=IQcsbyCW-5w",
+        "duration": "27:39"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Shimla",
+        "link": "https://www.google.com/search?sca_esv=d143a126214438bd&si=AKbGX_oBDfquzodaRrfbb9img4kPQ4fCBZjeqAiaW1svvC8uXoAjaBGO9PmpeprD65F-EsGLysrZB6ZlkZswUWahck0nDJQh7SHe2qcmsVZV6PTNhKa3UQa8k5N2ANWyCx3MhHE1Vo9ogodf9djqTI9zJ3J-ZtcOdsYR12fqzmuxjgdjq6QP4RncmQ-N1yhhaX5i10YLKWUWFM7_3RWo591iIvUAWFbQbuzUsRd6bI3YhEqFJI5NSrXnz2Mxn68_CE-c8Q_SvpocWwwT9m0vDEvb3phYThmdbnUcyB2LAsXV5QAArTzA7ns%3D&q=Shimla&sa=X&ved=2ahUKEwjB5Kzs2dKFAxWSIUQIHYmWDzoQs9oBKAB6BAhIEAI",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Shimla&si=AKbGX_oBDfquzodaRrfbb9img4kPQ4fCBZjeqAiaW1svvC8uXoAjaBGO9PmpeprD65F-EsGLysrZB6ZlkZswUWahck0nDJQh7SHe2qcmsVZV6PTNhKa3UQa8k5N2ANWyCx3MhHE1Vo9ogodf9djqTI9zJ3J-ZtcOdsYR12fqzmuxjgdjq6QP4RncmQ-N1yhhaX5i10YLKWUWFM7_3RWo591iIvUAWFbQbuzUsRd6bI3YhEqFJI5NSrXnz2Mxn68_CE-c8Q_SvpocWwwT9m0vDEvb3phYThmdbnUcyB2LAsXV5QAArTzA7ns%3D",
+        "image": "https://serpapi.com/searches/6624b52ce4a23da2385bf049/images/7330132696062d175cdc68aed2ca36b61421ca9c710861395ee646be57f7beb8edc522762803636ddbf66cd8eca41721.jpeg"
+      },
+      {
+        "name": "Kullu",
+        "link": "https://www.google.com/search?sca_esv=d143a126214438bd&si=AKbGX_oBDfquzodaRrfbb9img4kPQ4fCBZjeqAiaW1svvC8uXgWXr4MXyd3O5ryfLt7D6tgpkTwHEwAsGerin6oyHq7F1HlqUEkHD_wHAc-63qlt08DZsAnDSPr8OBfnIKUITqoO6QWdPUfkO9H24EwVNBOa7hLTJiO89Xd3WvmoLErRYdM6pVkO0eN74jEsNJDLSZVTgD-qafxOyLw5t0OWqD-ycVeydkIfaU2obDEsj8igHmFRy8pJLEBGijEkwoFlPvqiYEMHcGsrdtn0ADeGUGf9TGLJTfAxBLqNdsVzoydbC04tsR0%3D&q=Kullu+District&sa=X&ved=2ahUKEwjB5Kzs2dKFAxWSIUQIHYmWDzoQs9oBKAF6BAhIEAM",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Kullu+District&si=AKbGX_oBDfquzodaRrfbb9img4kPQ4fCBZjeqAiaW1svvC8uXgWXr4MXyd3O5ryfLt7D6tgpkTwHEwAsGerin6oyHq7F1HlqUEkHD_wHAc-63qlt08DZsAnDSPr8OBfnIKUITqoO6QWdPUfkO9H24EwVNBOa7hLTJiO89Xd3WvmoLErRYdM6pVkO0eN74jEsNJDLSZVTgD-qafxOyLw5t0OWqD-ycVeydkIfaU2obDEsj8igHmFRy8pJLEBGijEkwoFlPvqiYEMHcGsrdtn0ADeGUGf9TGLJTfAxBLqNdsVzoydbC04tsR0%3D",
+        "image": "https://serpapi.com/searches/6624b52ce4a23da2385bf049/images/7330132696062d175cdc68aed2ca36b61421ca9c710861395ee646be57f7beb8960beee7f9515206228cce1d4fbe3bfe.jpeg"
+      },
+      {
+        "name": "Himachal Pradesh",
+        "link": "https://www.google.com/search?sca_esv=d143a126214438bd&si=AKbGX_paaCugDdYkuX2heTJMr0_FGRox2AzKVmiTg2eQr2d-rkW37cY09EerTRkWHIXDGd_Gudn75YB1V9sGfZPf8nI4gKPd4HAbvLOemRsO_3BtG__g2UeHDh401AGdnI_F7whtKyOTsT67UzjJ5Cjr-BFiskpOgi96uAMHCKKrd9w43-D7spLTofiBImvHRNncqnYPEYiIfCkksydT659xaXq4Jpjgh-yfrEO6whTBtIzkdw-SBOCcbL7lXuFIC24I50wv-H0c-aLgjbHUejwfOoMr0Wnb6Z6nK7URyQFsq9BgA2oJHxM%3D&q=Himachal+Pradesh&sa=X&ved=2ahUKEwjB5Kzs2dKFAxWSIUQIHYmWDzoQs9oBKAJ6BAhIEAQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Himachal+Pradesh&si=AKbGX_paaCugDdYkuX2heTJMr0_FGRox2AzKVmiTg2eQr2d-rkW37cY09EerTRkWHIXDGd_Gudn75YB1V9sGfZPf8nI4gKPd4HAbvLOemRsO_3BtG__g2UeHDh401AGdnI_F7whtKyOTsT67UzjJ5Cjr-BFiskpOgi96uAMHCKKrd9w43-D7spLTofiBImvHRNncqnYPEYiIfCkksydT659xaXq4Jpjgh-yfrEO6whTBtIzkdw-SBOCcbL7lXuFIC24I50wv-H0c-aLgjbHUejwfOoMr0Wnb6Z6nK7URyQFsq9BgA2oJHxM%3D",
+        "image": "https://serpapi.com/searches/6624b52ce4a23da2385bf049/images/7330132696062d175cdc68aed2ca36b61421ca9c710861395ee646be57f7beb8c56dd3aed6f10b21064a467e7e74e56a.jpeg"
+      },
+      {
+        "name": "Mussoorie",
+        "link": "https://www.google.com/search?sca_esv=d143a126214438bd&si=AKbGX_oBDfquzodaRrfbb9img4kPQ4fCBZjeqAiaW1svvC8uXrAIRfQwJ5U9Fi6fM0WKhoIpPsNk0hPPPOPTNyIsLIvlhocXDN2opMEBxwHF97nS8iXrZMOKJgnd9rIcHqK3SmFTyChW1GnSIVA_QPs3QmJ1purGrJn6CFTpDIubWRpi7oj7yQIu2XphjOjBJGE2XpDAsrezRwUeTmwEOeuF0RGXzvjne18bVfG8jah6tXqsRl60NzyjFGLYdarpuXTvDkBX-LkQvtl1u4AXeUAc8rXjNCUjol-U2Gwk3Fe8kHr7kA3ZGGM%3D&q=Mussoorie&sa=X&ved=2ahUKEwjB5Kzs2dKFAxWSIUQIHYmWDzoQs9oBKAN6BAhIEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Mussoorie&si=AKbGX_oBDfquzodaRrfbb9img4kPQ4fCBZjeqAiaW1svvC8uXrAIRfQwJ5U9Fi6fM0WKhoIpPsNk0hPPPOPTNyIsLIvlhocXDN2opMEBxwHF97nS8iXrZMOKJgnd9rIcHqK3SmFTyChW1GnSIVA_QPs3QmJ1purGrJn6CFTpDIubWRpi7oj7yQIu2XphjOjBJGE2XpDAsrezRwUeTmwEOeuF0RGXzvjne18bVfG8jah6tXqsRl60NzyjFGLYdarpuXTvDkBX-LkQvtl1u4AXeUAc8rXjNCUjol-U2Gwk3Fe8kHr7kA3ZGGM%3D",
+        "image": "https://serpapi.com/searches/6624b52ce4a23da2385bf049/images/7330132696062d175cdc68aed2ca36b61421ca9c710861395ee646be57f7beb816ec45ec3a8abe1b0f7367745c944da2.jpeg"
+      }
+    ],
+    "people_also_search_for_link": "https://www.google.com/search?sca_esv=d143a126214438bd&q=Manali&stick=H4sIAAAAAAAAAONgFuLUz9U3MDGrMKlQQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iZfNNzEvMydzByniLTZLBTWptzMWXBa_2Tnw8bevxln0Xutd5ZeYpGQIAdfOhKmwAAAA&sa=X&ved=2ahUKEwjB5Kzs2dKFAxWSIUQIHYmWDzoQ4qYDegQISBAG",
+    "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3MDGrMKlQQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iZfNNzEvMydzByniLTZLBTWptzMWXBa_2Tnw8bevxln0Xutd5ZeYpGQIAdfOhKmwAAAA"
+  },
+  {
+    "id":3,
+    "title": "Shimla",
+    "type": "City in India",
+    "entity_type": "cities, locations, travel, cities",
+    "kgmid": "/m/02p3my",
+    "thumbnail":"https://static.toiimg.com/thumb/msid-102383896,width-748,height-499,resizemode=4,imgsize-238460/.jpg",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/02p3my&hl=en-US&q=Shimla",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F02p3my&q=Shimla",
+    "description": "Shimla is the capital of the northern Indian state of Himachal Pradesh, in the Himalayan foothills. Once the summer capital of British India, it remains the terminus of the narrow-gauge Kalka-Shimla Railway, completed in 1903. It’s also known for the handicraft shops that line The Mall, a pedestrian avenue, as well as the Lakkar Bazaar, a market specializing in wooden toys and crafts. ― Google",
+    "elevation": "7,467′",
+    "avg_annual_temperature": "17 °C (63 °F)",
+    "climate": "Cwb",
+    "district": "Shimla",
+    "iso_3166_code": "ISO 3166-2",
+    "named_for": "Sri Shyamala Devi",
+    "pin": "171 001",
+    "buttons": [
+      {
+        "text": "Things to do",
+        "subtitle": "Things To Do In Shimla",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipM8bI793nsIiXJVuNapLO9YhkCcwa4pVVMKftU_=w40-h40-n-k-no"
+      },
+      {
+        "text": "Weather",
+        "subtitle": "Shimla Weather"
+      }
+    ],
+    "web_results": [
+      {
+        "thumbnail": "https://serpapi.com/searches/6624b5315fc493f1dc395fff/images/fcd50fa2c7ef1b36b98376174987072ed42b6675aa8cc14769badd7cb2be2e50364869f2aca1a0b9.jpeg",
+        "title": "Shimla Tourist Places | Shimla Vlog",
+        "source": "YouTube • Priyanka Tiwari Vlogs",
+        "source_image": "https://serpapi.com/searches/6624b5315fc493f1dc395fff/images/fcd50fa2c7ef1b36b98376174987072ed42b6675aa8cc1478ba681f1840a776d7a6687fd528bb535209eea4600e522c9.png",
+        "link": "https://www.youtube.com/watch?v=n_Os7pESQ6E",
+        "duration": "11:24"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Manali",
+        "link": "https://www.google.com/search?sca_esv=d143a126214438bd&sca_upv=1&si=AKbGX_oBDfquzodaRrfbb9img4kPQ4fCBZjeqAiaW1svvC8uXhYIuvM1ZABVn1u8ioyWD5us3C0x_3KWONF8TFIO0Go4RD9mClDJYHMYOGNXrGz_zSqv-PgehelAUWpexzlBBT2h9jbD1_oRvx5EHTyaryh_A6YXXPiwqmIlT01oCGQA8Y_dUNyfgM0FixjiMyjN9BHHOHL7Jmff7WHAf3LeZbrgAnhC-KzxaIp_NJJb_OyirPqSaxFH2IhatsgnomkVJB5h1nsNCPDVTBtlOVa3XgJsje8TSbXP44DaXjPYnNdLWXHBBkY%3D&q=Manali&sa=X&ved=2ahUKEwj6h8Xu2dKFAxWkQjABHd4YBA8Qs9oBKAB6BAgTEAI",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Manali&si=AKbGX_oBDfquzodaRrfbb9img4kPQ4fCBZjeqAiaW1svvC8uXhYIuvM1ZABVn1u8ioyWD5us3C0x_3KWONF8TFIO0Go4RD9mClDJYHMYOGNXrGz_zSqv-PgehelAUWpexzlBBT2h9jbD1_oRvx5EHTyaryh_A6YXXPiwqmIlT01oCGQA8Y_dUNyfgM0FixjiMyjN9BHHOHL7Jmff7WHAf3LeZbrgAnhC-KzxaIp_NJJb_OyirPqSaxFH2IhatsgnomkVJB5h1nsNCPDVTBtlOVa3XgJsje8TSbXP44DaXjPYnNdLWXHBBkY%3D",
+        "image": "https://serpapi.com/searches/6624b5315fc493f1dc395fff/images/fcd50fa2c7ef1b36b98376174987072e92740ce973485fa39c437a7325947445230fd3319ab442a53650a666006f3bea.jpeg"
+      },
+      {
+        "name": "Himachal Pradesh",
+        "link": "https://www.google.com/search?sca_esv=d143a126214438bd&sca_upv=1&si=AKbGX_paaCugDdYkuX2heTJMr0_FGRox2AzKVmiTg2eQr2d-rkW37cY09EerTRkWHIXDGd_Gudn75YB1V9sGfZPf8nI4gKPd4HAbvLOemRsO_3BtG__g2UeHDh401AGdnI_F7whtKyOTsT67UzjJ5Cjr-BFi0V4Ioggup1mKgtY20SDv8AO40csfv5mtQSUhijQ_Lm3MsvDJakono3pFL1gd4u4Rly56e47_pe5h0N5ZSVPsDzqjS-vbcCb0S9-TWchNTH8HAyUxHZ6pIrSDcjbT5ewBPBBglWmOeZHptM-ZQBOlqn4Jstg%3D&q=Himachal+Pradesh&sa=X&ved=2ahUKEwj6h8Xu2dKFAxWkQjABHd4YBA8Qs9oBKAF6BAgTEAM",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Himachal+Pradesh&si=AKbGX_paaCugDdYkuX2heTJMr0_FGRox2AzKVmiTg2eQr2d-rkW37cY09EerTRkWHIXDGd_Gudn75YB1V9sGfZPf8nI4gKPd4HAbvLOemRsO_3BtG__g2UeHDh401AGdnI_F7whtKyOTsT67UzjJ5Cjr-BFi0V4Ioggup1mKgtY20SDv8AO40csfv5mtQSUhijQ_Lm3MsvDJakono3pFL1gd4u4Rly56e47_pe5h0N5ZSVPsDzqjS-vbcCb0S9-TWchNTH8HAyUxHZ6pIrSDcjbT5ewBPBBglWmOeZHptM-ZQBOlqn4Jstg%3D",
+        "image": "https://serpapi.com/searches/6624b5315fc493f1dc395fff/images/fcd50fa2c7ef1b36b98376174987072e92740ce973485fa39c437a7325947445f810b0c225865620eeb0798f0d422efe.jpeg"
+      },
+      {
+        "name": "Mussoorie",
+        "link": "https://www.google.com/search?sca_esv=d143a126214438bd&sca_upv=1&si=AKbGX_oBDfquzodaRrfbb9img4kPQ4fCBZjeqAiaW1svvC8uXrAIRfQwJ5U9Fi6fM0WKhoIpPsNk0hPPPOPTNyIsLIvlhocXDN2opMEBxwHF97nS8iXrZMOKJgnd9rIcHqK3SmFTyChW1GnSIVA_QPs3QmJ1DPLK8M2qN3pY9txq8COljLjbsS-TmiAi5WEZBYLNJlw7q9i3WDwmJFFNow_IgE-8ecEQkgQ2AMShq6e9jiyDGWhJfzOqeIQAx4z3XSyIMY5jWA_T2Uk_LRlOxlYtXFGjwZx700ResVVifpbI78MvLR3hXHA%3D&q=Mussoorie&sa=X&ved=2ahUKEwj6h8Xu2dKFAxWkQjABHd4YBA8Qs9oBKAJ6BAgTEAQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Mussoorie&si=AKbGX_oBDfquzodaRrfbb9img4kPQ4fCBZjeqAiaW1svvC8uXrAIRfQwJ5U9Fi6fM0WKhoIpPsNk0hPPPOPTNyIsLIvlhocXDN2opMEBxwHF97nS8iXrZMOKJgnd9rIcHqK3SmFTyChW1GnSIVA_QPs3QmJ1DPLK8M2qN3pY9txq8COljLjbsS-TmiAi5WEZBYLNJlw7q9i3WDwmJFFNow_IgE-8ecEQkgQ2AMShq6e9jiyDGWhJfzOqeIQAx4z3XSyIMY5jWA_T2Uk_LRlOxlYtXFGjwZx700ResVVifpbI78MvLR3hXHA%3D",
+        "image": "https://serpapi.com/searches/6624b5315fc493f1dc395fff/images/fcd50fa2c7ef1b36b98376174987072e92740ce973485fa39c437a7325947445796224bfa82dc6156765e2e481412d67.jpeg"
+      },
+      {
+        "name": "Nainital",
+        "link": "https://www.google.com/search?sca_esv=d143a126214438bd&sca_upv=1&si=AKbGX_oBDfquzodaRrfbb9img4kPQ4fCBZjeqAiaW1svvC8uXqzSbMhB58KY5Gf2cqsizQbq3wFrcJHEOkFJZtKnb15HNXSS54WDyzpOauFc-gL-B1Yr6UhJ-3iK4-8swfEgtpswlAq4mSnxqbqJnS1kWpiyqFN6EpgQVVEit20OUBMHsR1dEL9V-g7kf-PbYY4dkpiEMFZn5EE6Qdv9pzMJDjg92TJtIRunvTtWxUz-kzwl6vFrKYPJsoRypbw67ZUYVilh73G3wb1k8bvJFFkpjkrHyP7eyJGNVleF22GJlmGzsu2p4kE%3D&q=Nainital&sa=X&ved=2ahUKEwj6h8Xu2dKFAxWkQjABHd4YBA8Qs9oBKAN6BAgTEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nainital&si=AKbGX_oBDfquzodaRrfbb9img4kPQ4fCBZjeqAiaW1svvC8uXqzSbMhB58KY5Gf2cqsizQbq3wFrcJHEOkFJZtKnb15HNXSS54WDyzpOauFc-gL-B1Yr6UhJ-3iK4-8swfEgtpswlAq4mSnxqbqJnS1kWpiyqFN6EpgQVVEit20OUBMHsR1dEL9V-g7kf-PbYY4dkpiEMFZn5EE6Qdv9pzMJDjg92TJtIRunvTtWxUz-kzwl6vFrKYPJsoRypbw67ZUYVilh73G3wb1k8bvJFFkpjkrHyP7eyJGNVleF22GJlmGzsu2p4kE%3D",
+        "image": "https://serpapi.com/searches/6624b5315fc493f1dc395fff/images/fcd50fa2c7ef1b36b98376174987072e92740ce973485fa39c437a73259474452d8a829f957fa56c194930fc6f2d6867.jpeg"
+      }
+    ],
+    "people_also_search_for_link": "https://www.google.com/search?sca_esv=d143a126214438bd&sca_upv=1&q=Shimla&stick=H4sIAAAAAAAAAONgFuLUz9U3MCowzq1UQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iZQvOyMzNSdzByniLTZLBTWptzMWXBa_2Tnw8bevxln0Xutd5ZeYpGQIAfhoo6GwAAAA&sa=X&ved=2ahUKEwj6h8Xu2dKFAxWkQjABHd4YBA8Q4qYDegQIExAG",
+    "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3MCowzq1UQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1iZQvOyMzNSdzByniLTZLBTWptzMWXBa_2Tnw8bevxln0Xutd5ZeYpGQIAfhoo6GwAAAA"
+  },
+  {
+    "id":4,
+    "title": "Rishikesh",
+    "type": "City in India",
+    "entity_type": "cities, locations, travel, cities",
+    "main_tab_text": "Overview",
+    "kgmid": "/m/0cctvs",
+    "thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKpHsUNeqVPj-QfGv1Fqzy-LgF9JmuBk9m54xXySDjBA&s",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0cctvs&hl=en-US&q=Rishikesh&kgs=1848dc12639c455d&shndl=17&shem=lnolc,lsde&source=sh/x/kp/osrp/m5/1",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0cctvs&q=Rishikesh",
+    "tabs": [
+      {
+        "text": "Things to do",
+        "link": "https://www.google.com/search?stick=H4sIAAAAAAAAAOMwe8Toyi3w8sc9YSmbSWtOXmM045L2yU9OLMnMz4PRjiUlRYnJIFaxkDgXm2teSWZJpRCvFDcXp36uvkFycklZMc8iVsmSjMy89GKFknyFlHyFzDyFoszijMzs1OIMAPPm6lxmAAAA&hl=en-US&q=things+to+do+in+rishikesh&kgs=1848dc12639c455d&shndl=17&shem=lnolc,lsde&source=sh/x/kp/osrp/m5/1",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en-US&q=things+to+do+in+rishikesh&stick=H4sIAAAAAAAAAOMwe8Toyi3w8sc9YSmbSWtOXmM045L2yU9OLMnMz4PRjiUlRYnJIFaxkDgXm2teSWZJpRCvFDcXp36uvkFycklZMc8iVsmSjMy89GKFknyFlHyFzDyFoszijMzs1OIMAPPm6lxmAAAA"
+      },
+      {
+        "text": "Hotels",
+        "link": "https://www.google.com/search?stick=H4sIAAAAAAAAAOMwe8RoxC3w8sc9YSnNSWtOXmNU5mLzyC9JzSkWkuTi8MlPTizJzM8T4pXi5uLUz9U3SE4uKSvmWcQqnAFWpJCZp1CUWZyRmZ1anAEAcw5Emk0AAAA&hl=en-US&q=hotels+in+rishikesh&kgs=1848dc12639c455d&shndl=17&shem=lnolc,lsde&source=sh/x/kp/osrp/m5/1",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en-US&q=hotels+in+rishikesh&stick=H4sIAAAAAAAAAOMwe8RoxC3w8sc9YSnNSWtOXmNU5mLzyC9JzSkWkuTi8MlPTizJzM8T4pXi5uLUz9U3SE4uKSvmWcQqnAFWpJCZp1CUWZyRmZ1anAEAcw5Emk0AAAA"
+      },
+      {
+        "text": "Flights",
+        "link": "https://www.google.com/search?stick=H4sIAAAAAAAAAOMwe8Rowy3w8sc9YSnjSWtOXmPU5eJ1y8lMzygpDk5NLErOEJLh4nZJLS7JzEssyczPE-KV4ubi1M_VN0hOLikr5lnEKpIGUa5Qkq9QlFmckZmdWpwBAAdZ_NtYAAAA&hl=en-US&q=flights+to+rishikesh&kgs=1848dc12639c455d&shndl=17&shem=lnolc,lsde&source=sh/x/kp/osrp/m5/1",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en-US&q=flights+to+rishikesh&stick=H4sIAAAAAAAAAOMwe8Rowy3w8sc9YSnjSWtOXmPU5eJ1y8lMzygpDk5NLErOEJLh4nZJLS7JzEssyczPE-KV4ubi1M_VN0hOLikr5lnEKpIGUa5Qkq9QlFmckZmdWpwBAAdZ_NtYAAAA"
+      }
+    ],
+    "description": "Rishikesh is a city in India’s northern state of Uttarakhand, in the Himalayan foothills beside the Ganges River. The river is considered holy, and the city is renowned as a center for studying yoga and meditation. Temples and ashrams (centers for spiritual studies) line the eastern bank around Swarg Ashram, a traffic-free, alcohol-free and vegetarian enclave upstream from Rishikesh town. ― Google",
+    "elevation": "1,115′",
+    "district": "Dehradun",
+    "district_links": [
+      {
+        "text": "Dehradun",
+        "link": "https://www.google.com/search?sca_esv=d143a126214438bd&q=Dehradun&stick=H4sIAAAAAAAAAONgVuLUz9U3sEyOL7BYxMrhkppRlJhSmgcAIm2lxhgAAAA&sa=X&ved=2ahUKEwiauN3v2dKFAxXe78kDHWa1Do0QmxMoAHoECCIQAg"
+      }
+    ],
+    "literacy_2011": "86.86%",
+    "municipality": "1952",
+    "named_for": "Hrishikesha",
+    "named_for_links": [
+      {
+        "text": "Hrishikesha",
+        "link": "https://www.google.com/search?sca_esv=d143a126214438bd&q=Hrishikesha&stick=H4sIAAAAAAAAAONgVuLUz9U3MClIM0taxMrtUZRZnJGZnVqckQgADmGCDhsAAAA&sa=X&ved=2ahUKEwiauN3v2dKFAxXe78kDHWa1Do0QmxMoAHoECCUQAg"
+      }
+    ],
+    "sex_ratio_2011": "875 ♀ / 1000 ♂",
+    "telephone_code": "+91-135",
+    "buttons": [
+      {
+        "text": "Things to do",
+        "subtitle": "Attractions Of Rishikesh",
+        "thumbnail": "https://lh5.googleusercontent.com/p/AF1QipNmuEU53oNjJWonqETFnufjDwixROOEol2149bb=w40-h40-n-k-no"
+      },
+      {
+        "text": "Climate",
+        "subtitle": "Rishikesh Weather By Month",
+        "title": "Rishikesh, Uttarakhand, IN Climate Zone, Monthly Averages, Historical ...",
+        "link": "https://weatherandclimate.com/india/uttarakhand/rishikesh#:~:text=Rishikesh%2C%20Uttarakhand%2C%20India%20Climate&text=The%20district's%20yearly%20temperature%20is,%25%20of%20the%20time)%20annually.",
+        "displayed_link": "https://weatherandclimate.com › india › rishikesh",
+        "snippet": "Rishikesh, Uttarakhand, India Climate The district's yearly temperature is 24.36ºC (75.85ºF) and it is -1.61% lower than India's averages. Rishikesh typically receives about 172.88 millimeters (6.81 inches) of precipitation and has 130.64 rainy days (35.79% of the time) annually.",
+        "snippet_highlighted_words": [
+          "yearly temperature is 24.36ºC (75.85ºF)"
+        ],
+        "favicon": "https://serpapi.com/searches/6624b5338e02e41be7b58292/images/ac63ef1a1925b3792e9460ab2054d50c69c02bae9391b3c8d6847cbea5c61649638850601097755d.png",
+        "source": "weatherandclimate.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNvd-fU3ZYtnv_JxRmRfx0xWI9RFOYu3UMKTfKXcULsQ8&s",
+        "search_link": "https://weatherandclimate.com/india/uttarakhand/rishikesh#:~:text=Rishikesh%2C%20Uttarakhand%2C%20India%20Climate&text=The%20district's%20yearly%20temperature%20is,%25%20of%20the%20time)%20annually.",
+        "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Rishikesh"
+      },
+      {
+        "text": "Tour",
+        "subtitle": "Rishikesh Tour",
+        "thumbnail": "https://serpapi.com/searches/6624b5338e02e41be7b58292/images/ac63ef1a1925b3792e9460ab2054d50c69c02bae9391b3c898e3362541101cfa9abf50334fd5a69a.gif",
+        "web_links": [
+          {
+            "title": "THE 10 BEST Rishikesh Tours & Excursions for 2024",
+            "snippet": "These experiences are best for tours in Rishikesh: Private Haridwar and Rishikesh Day Tour from Delhi- All Inclusive...",
+            "link": "https://www.tripadvisor.com/Attractions-g580106-Activities-c42-Rishikesh_Dehradun_District_Uttarakhand.html",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBMCgiCyJlTysim7i20at78tmrg8ZQjwCkRq9lvdPbUA8g2GlYpN27CoetDaE",
+            "source": "Tripadvisor",
+            "source_thumbnail": "https://serpapi.com/searches/6624b5338e02e41be7b58292/images/ac63ef1a1925b3792e9460ab2054d50c69c02bae9391b3c87fc264d3db7843d91ac0753b001c31b9cc57f2aa1d075f261dd3bcfbe3033b87.gif"
+          },
+          {
+            "title": "Rishikesh One Day Tour Plan with all information - YouTube",
+            "snippet": "Rishikesh the land of Yoga and Meditation has so much to offer and beyond and if you are planning a trip to this holy...",
+            "link": "https://www.youtube.com/watch?v=F70CDb1OjwY",
+            "source": "YouTube",
+            "source_thumbnail": "https://serpapi.com/searches/6624b5338e02e41be7b58292/images/ac63ef1a1925b3792e9460ab2054d50c69c02bae9391b3c87fc264d3db7843d908693044fcdefaf70125f720a56fa4ef39effd4d1663a5aa.gif"
+          }
+        ]
+      },
+      {
+        "text": "Weather",
+        "subtitle": "Rishikesh Weather"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Haridwar",
+        "link": "https://www.google.com/search?sca_esv=d143a126214438bd&si=AKbGX_oBDfquzodaRrfbb9img4kPQ4fCBZjeqAiaW1svvC8uXmCNBpXdMPP642M6I075pfAhBWRGCKXBj9iQ_ZYQaDc8AIrEDI-L_Pi1_z5HPSiKxHjIcZHZvyKpy7ozEsIVz06jptU49j2NGRoosYvDARog350PLJKf9ioCr9D50yTY5PcXM9D0o5nT0k6OxVgJvJO8OwxY6Hmj--31cHILRAd7whDWXLZpX223gDGVw0XtC0ZT8JkyNpIjFWlqW0aUVoyv_sl_huOG4OsuV_50HmC_pQdH1jJS942a3LbFxfNJTKhDG0s%3D&q=Haridwar&sa=X&ved=2ahUKEwiauN3v2dKFAxXe78kDHWa1Do0Qs9oBKAB6BAgcEAI",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Haridwar&si=AKbGX_oBDfquzodaRrfbb9img4kPQ4fCBZjeqAiaW1svvC8uXmCNBpXdMPP642M6I075pfAhBWRGCKXBj9iQ_ZYQaDc8AIrEDI-L_Pi1_z5HPSiKxHjIcZHZvyKpy7ozEsIVz06jptU49j2NGRoosYvDARog350PLJKf9ioCr9D50yTY5PcXM9D0o5nT0k6OxVgJvJO8OwxY6Hmj--31cHILRAd7whDWXLZpX223gDGVw0XtC0ZT8JkyNpIjFWlqW0aUVoyv_sl_huOG4OsuV_50HmC_pQdH1jJS942a3LbFxfNJTKhDG0s%3D",
+        "image": "https://serpapi.com/searches/6624b5338e02e41be7b58292/images/ac63ef1a1925b3792e9460ab2054d50cdc63393758d34f3a3ab3dbee5ca88ade8446a65258351f2660efbac9971b4a31.jpeg"
+      },
+      {
+        "name": "Mussoorie",
+        "link": "https://www.google.com/search?sca_esv=d143a126214438bd&si=AKbGX_oBDfquzodaRrfbb9img4kPQ4fCBZjeqAiaW1svvC8uXrAIRfQwJ5U9Fi6fM0WKhoIpPsNk0hPPPOPTNyIsLIvlhocXDN2opMEBxwHF97nS8iXrZMOKJgnd9rIcHqK3SmFTyChW1GnSIVA_QPs3QmJ1GJhfsx_POBu0AqK-uj8F5E5S5oe7rS6Ww5IEZmZklqf_g_Zgxwqm0Fh23d2zGuA5ZSpF9vmgDUyCBdHTSkscxudDIiYduy-7lqQleVuNeK4MtAY06x2G-_pW-WYEVUjG_VT9XZ7YDItW1iYMFD9Oh_Sq9ps%3D&q=Mussoorie&sa=X&ved=2ahUKEwiauN3v2dKFAxXe78kDHWa1Do0Qs9oBKAF6BAgcEAM",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Mussoorie&si=AKbGX_oBDfquzodaRrfbb9img4kPQ4fCBZjeqAiaW1svvC8uXrAIRfQwJ5U9Fi6fM0WKhoIpPsNk0hPPPOPTNyIsLIvlhocXDN2opMEBxwHF97nS8iXrZMOKJgnd9rIcHqK3SmFTyChW1GnSIVA_QPs3QmJ1GJhfsx_POBu0AqK-uj8F5E5S5oe7rS6Ww5IEZmZklqf_g_Zgxwqm0Fh23d2zGuA5ZSpF9vmgDUyCBdHTSkscxudDIiYduy-7lqQleVuNeK4MtAY06x2G-_pW-WYEVUjG_VT9XZ7YDItW1iYMFD9Oh_Sq9ps%3D",
+        "image": "https://serpapi.com/searches/6624b5338e02e41be7b58292/images/ac63ef1a1925b3792e9460ab2054d50cdc63393758d34f3a3ab3dbee5ca88ade6a195f81d9d88427bef4b9ea5035586b.jpeg"
+      },
+      {
+        "name": "Uttarakhand",
+        "link": "https://www.google.com/search?sca_esv=d143a126214438bd&si=AKbGX_oBDfquzodaRrfbb9img4kPQ4fCBZjeqAiaW1svvC8uXhcT9oykrGFEEs88UKyib7Pge_T8OBCaTMhvcfcpMFqEUgaKsh7dy5aHQfLZfI4RhtQi6sgtUpvadePwBQd04voq9hRkOqk72AJ8rh3u1M8-5sKfykR9pUc3PI2LHD2agzx-fiYjEyuQKwjfEjuw2HwA0pfZFXI99YlSiw4KvmRw_44qesm2NDnxSUExY2s1Hg8GhOaHK4F0LdcBHdGkoenqu7wTnNDAu4bB9H1GjrHZVnfrrAm5TnXQvlyMayVvEvhTJQU%3D&q=Uttarakhand&sa=X&ved=2ahUKEwiauN3v2dKFAxXe78kDHWa1Do0Qs9oBKAJ6BAgcEAQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Uttarakhand&si=AKbGX_oBDfquzodaRrfbb9img4kPQ4fCBZjeqAiaW1svvC8uXhcT9oykrGFEEs88UKyib7Pge_T8OBCaTMhvcfcpMFqEUgaKsh7dy5aHQfLZfI4RhtQi6sgtUpvadePwBQd04voq9hRkOqk72AJ8rh3u1M8-5sKfykR9pUc3PI2LHD2agzx-fiYjEyuQKwjfEjuw2HwA0pfZFXI99YlSiw4KvmRw_44qesm2NDnxSUExY2s1Hg8GhOaHK4F0LdcBHdGkoenqu7wTnNDAu4bB9H1GjrHZVnfrrAm5TnXQvlyMayVvEvhTJQU%3D",
+        "image": "https://serpapi.com/searches/6624b5338e02e41be7b58292/images/ac63ef1a1925b3792e9460ab2054d50cdc63393758d34f3a3ab3dbee5ca88adec3488379ef718cd45f1b13dbfa6d5e49.jpeg"
+      },
+      {
+        "name": "Nainital",
+        "link": "https://www.google.com/search?sca_esv=d143a126214438bd&si=AKbGX_oBDfquzodaRrfbb9img4kPQ4fCBZjeqAiaW1svvC8uXqzSbMhB58KY5Gf2cqsizQbq3wFrcJHEOkFJZtKnb15HNXSS54WDyzpOauFc-gL-B1Yr6UhJ-3iK4-8swfEgtpswlAq4mSnxqbqJnS1kWpiynSclIjxrkJzf9PM1iFMYq6NdajjVR-CVadvxpIhR4YdGOSaAKF-naJ5UwikrWXxDgYXG45IyDO7N2iift3Ke4P-ogejFkptUWMGcKS9AfJMaZ3a-DPLHTuSyL3fw-Ez1pBQHLuZ8OSR5x6WqjXiT8YjLaZU%3D&q=Nainital&sa=X&ved=2ahUKEwiauN3v2dKFAxXe78kDHWa1Do0Qs9oBKAN6BAgcEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Nainital&si=AKbGX_oBDfquzodaRrfbb9img4kPQ4fCBZjeqAiaW1svvC8uXqzSbMhB58KY5Gf2cqsizQbq3wFrcJHEOkFJZtKnb15HNXSS54WDyzpOauFc-gL-B1Yr6UhJ-3iK4-8swfEgtpswlAq4mSnxqbqJnS1kWpiynSclIjxrkJzf9PM1iFMYq6NdajjVR-CVadvxpIhR4YdGOSaAKF-naJ5UwikrWXxDgYXG45IyDO7N2iift3Ke4P-ogejFkptUWMGcKS9AfJMaZ3a-DPLHTuSyL3fw-Ez1pBQHLuZ8OSR5x6WqjXiT8YjLaZU%3D",
+        "image": "https://serpapi.com/searches/6624b5338e02e41be7b58292/images/ac63ef1a1925b3792e9460ab2054d50cdc63393758d34f3a3ab3dbee5ca88ade5cef2f414212b55d7b0598475a45f093.jpeg"
+      }
+    ],
+    "people_also_search_for_link": "https://www.google.com/search?sca_esv=d143a126214438bd&q=Rishikesh&stick=H4sIAAAAAAAAAONgFuLUz9U3SE4uKStWQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1i5QzKLM7IzE4tztjByniLTZLBTWptzMWXBa_2Tnw8bevxln0Xutd5ZeYpGQIA9Ww1Nm8AAAA&sa=X&ved=2ahUKEwiauN3v2dKFAxXe78kDHWa1Do0Q4qYDegQIHBAG",
+    "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3SE4uKStWQjC1BIMzU1LLEyuL_VIrSoJLUguKfzGKBaTmF-SkKiTmFOcrFKcmFiVnKKTlFy1i5QzKLM7IzE4tztjByniLTZLBTWptzMWXBa_2Tnw8bevxln0Xutd5ZeYpGQIA9Ww1Nm8AAAA"
+  }
+]
