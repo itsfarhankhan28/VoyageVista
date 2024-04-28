@@ -4,6 +4,8 @@ import axios from "axios"
 import { useEffect,useState } from "react"
 import Weather from "../components/Weather"
 import HotelSearchForm from "../components/HotelSearchForm"
+import { Link } from "react-router-dom"
+import mapimage from '../assets/IMG/mapimage.jpg'
 
 const CityDetails = () => {
 
@@ -36,10 +38,10 @@ const CityDetails = () => {
           locale: 'en-US'
         },
         headers: {
-          'X-RapidAPI-Key': '0c29a7f2ffmsh1ef9f808a73787ep11e93ajsn1d40287c1556',
+          'X-RapidAPI-Key': '408bfd43d1msh81efb1f570bcd88p1934d1jsnebf68378b693',
           'X-RapidAPI-Host': 'skyscanner80.p.rapidapi.com'
         }
-    };
+      };
 
     const getHotelDetails = async()=>{
         try{
@@ -72,11 +74,24 @@ const CityDetails = () => {
         <p className="text-lg">{cities[cityid].description}</p>
     </div>
     <div className="flex gap-10 justify-between">
-        <div className="w-[40%]">
-            <HotelSearchForm
-            cityname={cities[cityid].title}
-            entityId={entityId}
-            />
+        <div className="w-[40%] flex flex-col gap-10">
+            <div>
+                <HotelSearchForm
+                cityname={cities[cityid].title}
+                entityId={entityId}
+                />
+            </div>
+            <div className="">
+                <div className="relative">
+                    <img className="rounded-2xl" src={mapimage} alt="" />
+                    <div className="absolute inset-0 bg-black opacity-50 rounded-2xl"></div>
+                    <Link to={`/map?lat=${cities[cityid].latitude}&long=${cities[cityid].longitude}`}>
+                        <button className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white text-center z-10 text-2xl border-2 py-2 px-5 rounded-xl">
+                        View Map
+                        </button>
+                    </Link>
+                </div>
+            </div>
         </div>
         <div className="w-[50%]">
             <Weather
