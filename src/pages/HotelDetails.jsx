@@ -32,7 +32,7 @@ const HotelDetails = () => {
           locale: 'en-US'
         },
         headers: {
-          'X-RapidAPI-Key': '0c29a7f2ffmsh1ef9f808a73787ep11e93ajsn1d40287c1556',
+          'X-RapidAPI-Key': '408bfd43d1msh81efb1f570bcd88p1934d1jsnebf68378b693',
           'X-RapidAPI-Host': 'skyscanner80.p.rapidapi.com'
         }
       };
